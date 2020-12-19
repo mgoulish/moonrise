@@ -1,0 +1,32 @@
+
+Spool out tiny wires radially around a spacecraft,
+and charge them. The wires then interact with the
+proton wind from the Sun, gaining momentum from it.
+
+The wires are long, maybe 10 km, but very fine.
+The fields that they generate are twenty meters
+wide.
+
+You might get acceleration of 1mm/sec^2, So you're 
+traveling at 85 m/sec at the end of the first day, 
+600 m/sec (0.37 miles per second), and 2.6 km/sec
+(1.61 miles per second) at the end of the first
+month.
+
+The accelerating force falls off with distance 
+from the Sun, but not nearly as fast as sunlight 
+does. Almost as 1/r, rather than 1/(r^2).
+
+No propellant!
+
+One drawback is that there's no way to slow down 
+again at the end of the trip except by whacking 
+into something. 
+
+Unless -- could magnetic breaking possibly work?
+If your target were Neptune and you were doing 20
+km/sec when you got there? 
+
+Of course one way to slow down again would be to 
+have another star at the end of your trip...
+
