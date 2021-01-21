@@ -1,0 +1,35 @@
+
+When we see a Falcon 9 launch -- how much energy is being
+expended by that big first stage? And how fast?
+
+Falcon 9 Full-Thrust first stage burns for 162 seconds.
+It starts out with 411,000 kg of RP-1 kerosene, and I 
+will assume that it uses 95% of that fuel during ascent.
+These numbers are not made public by SpaceX, but Spaceflight101
+says that the propellent mass number comes from the FAA.
+The 95% figure is an educated guess.
+
+So that is 411000 * 0.95 == 390450 kg of RP-1 used.
+How much energy is that per kg?  43 MegaJoules.
+So we are expending 390450 * 43e6 == 16789350e6 Joules.
+
+A Joule is a watt-second, so we have 16789350000000 
+Watt-seconds expended in 162 seconds.
+      
+      16789350000000 Watt-seconds / 162 seconds == 
+
+         103637962963 Watts     == 
+         103637963    kiloWatts ==
+         103638       megaWatts ==
+         104          gigaWatts
+
+Holy yikes. 
+
+In the two minutes and forty-two seconds of its fiery ascent, 
+Falcon 9 is putting out one-tenth as much power as the entire 
+electrical generating capacity of the United States.
+
+I wonder what the corresponding number for Starship will be?!
+
+
+
